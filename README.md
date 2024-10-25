@@ -13,11 +13,18 @@ Customizable Background: Includes an option to display the captured video feed o
 Requirements
 
 Python 3.x
+
 OpenCV
+
 NumPy
+
 scikit-learn
+
 pandas
+
 Streamlit
+
 win32com.client
+
 
 This README file should provide a clear understanding of the project's functionality and how to set it up and use it.
